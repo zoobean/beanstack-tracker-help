@@ -5,7 +5,7 @@ title: About
 
 ![alt text](https://s3-us-west-2.amazonaws.com/beanstack/assets/Beanstack-About-Logo-Horizontal-RGB-2018.png "Beanstack logo")
 
-Version 1.0
+Version 2.0
 
 [Beanstack](https://www.beanstack.com)
 

@@ -4,15 +4,27 @@
     "next": "Next",
     "previous": "Previous",
     "tagline": "Help documentation for Beanstack Tracker mobile app",
-    "about": "About",
-    "intro": "Getting Started",
-    "whyread": "Why Read?",
-    "Help": "Help",
-    "Why Read?": "Why Read?",
-    "About": "About",
-    "Docusaurus": "Docusaurus",
-    "First Category": "First Category",
-    "Second Category": "Second Category"
+    "docs": {
+      "about": {
+        "title": "About"
+      },
+      "intro": {
+        "title": "Getting Started"
+      },
+      "whyread": {
+        "title": "Why Read?"
+      }
+    },
+    "links": {
+      "Help": "Help",
+      "Why Read?": "Why Read?",
+      "About": "About"
+    },
+    "categories": {
+      "Docusaurus": "Docusaurus",
+      "First Category": "First Category",
+      "Second Category": "Second Category"
+    }
   },
   "pages-strings": {
     "Help Translate|recruit community translators for your project": "Help Translate",
