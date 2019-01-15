@@ -1,29 +1,39 @@
 ---
 id: intro
-title: Intro
-sidebar_label: Introduction
+title: Getting Started
 ---
 
-Check the [documentation](https://docusaurus.io) for how to use Docusaurus.
+## Adding Titles to the Reading and History Lists
+### Add a Title to the Reading List
+Use the reading list to keep track of titles you're currently reading through timed reading sessions.
+1. When on "Log", tap `+` (top right) to add a new title.
+2. Tap `Add to Reading`
+3. Choose how you would like to enter the title's information. We suggest always trying `Scan Title ISBN` first. It will use your phone's camera to scan the title's ISBN barcode. On a successful scan, the title name, author, and [last page](#note-on-last-page-when-scanning-a-title-s-isbn) will be automatically filled in. If the title isn't found through the ISBN scan, you can enter the title's information manually with `Enter Title Info`.
+> #### Tracking Progress
+> By default, "Track Progress" is turned on. Tracking progress is a helpful feature that provides you with visual indications of your progress as you log reading sessions. After you log your first session, you'll see a colored bar under the title on "Log". This bar indicates your progress for that title. The "Progress" row on a title's detailed view shows a numerical percentage. You can get to a title's detailed view by tapping a title from "Log".
 
-## Lorem
+> #### Note on Last Page when Scanning a Title's ISBN
+> For the ISBN scanner, Beanstack Tracker pulls a title's information from the Google Books API. We've found that the last page data we pull in from the API in isn't always accurate, so we recommend double checking to make sure it's correct.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus elementum massa eget nulla aliquet sagittis. Proin odio tortor, vulputate ut odio in, ultrices ultricies augue. Cras ornare ultrices lorem malesuada iaculis. Etiam sit amet libero tempor, pulvinar mauris sed, sollicitudin sapien.
+4. Tap `Save`
 
-## Mauris In Code
+### Add a Title to the History List
+Use the history list keep a record of titles you've read. It's also a good place to keep books that were in your reading list, but you're taking a break from.
+1. When on Log, tap `+` (top right) to add a new title.
+2. Tap `Add to History`
+3. Choose how you would like to enter the title's information. We suggest always trying `Scan Title ISBN` first. It will use your phone's camera to scan the title's ISBN barcode. On a successful scan, the title name, author, and last page will be automatically filled in. If the title isn't found through the ISBN scan, you can enter the title's information manually with `Enter Title Info`.
+4. Toggle "Mark as Completed" if you would like to log as a completed title.
+5. Enter "First Page Read" and "Last Page Read" if you would like to log the number of pages read.
+6. Enter a date. This will be date of completion if you've toggled "Mark as Completed" on. If you want to keep track of how many titles you've completed over a certain period of time (i.e., how many titles you've completed in a year), try to be as accurate as possible with this date.
+7. Enter "Duration"  if you would like to log time read.
+> #### Statistics
+> You can view totals for titles completed, pages read, time read, and more by tapping "Statistics" in the main navigation bottom bar.
+8. Tap `Save`. Note that `Save` won't be tappable until the Title and Date fields are entered.
 
-```
-Mauris vestibulum ullamcorper nibh, ut semper purus pulvinar ut. Donec volutpat orci sit amet mauris malesuada, non pulvinar augue aliquam. Vestibulum ultricies at urna ut suscipit. Morbi iaculis, erat at imperdiet semper, ipsum nulla sodales erat, eget tincidunt justo dui quis justo. Pellentesque dictum bibendum diam at aliquet. Sed pulvinar, dolor quis finibus ornare, eros odio facilisis erat, eu rhoncus nunc dui sed ex. Nunc gravida dui massa, sed ornare arcu tincidunt sit amet. Maecenas efficitur sapien neque, a laoreet libero feugiat ut.
-```
-
-## Nulla
-
-Nulla facilisi. Maecenas sodales nec purus eget posuere. Sed sapien quam, pretium a risus in, porttitor dapibus erat. Sed sit amet fringilla ipsum, eget iaculis augue. Integer sollicitudin tortor quis ultricies aliquam. Suspendisse fringilla nunc in tellus cursus, at placerat tellus scelerisque. Sed tempus elit a sollicitudin rhoncus. Nulla facilisi. Morbi nec dolor dolor. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Cras et aliquet lectus. Pellentesque sit amet eros nisi. Quisque ac sapien in sapien congue accumsan. Nullam in posuere ante. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Proin lacinia leo a nibh fringilla pharetra.
-
-## Orci
-
-Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Proin venenatis lectus dui, vel ultrices ante bibendum hendrerit. Aenean egestas feugiat dui id hendrerit. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Curabitur in tellus laoreet, eleifend nunc id, viverra leo. Proin vulputate non dolor vel vulputate. Curabitur pretium lobortis felis, sit amet finibus lorem suscipit ut. Sed non mollis risus. Duis sagittis, mi in euismod tincidunt, nunc mauris vestibulum urna, at euismod est elit quis erat. Phasellus accumsan vitae neque eu placerat. In elementum arcu nec tellus imperdiet, eget maximus nulla sodales. Curabitur eu sapien eget nisl sodales fermentum.
-
-## Phasellus
-
-Phasellus pulvinar ex id commodo imperdiet. Praesent odio nibh, sollicitudin sit amet faucibus id, placerat at metus. Donec vitae eros vitae tortor hendrerit finibus. Interdum et malesuada fames ac ante ipsum primis in faucibus. Quisque vitae purus dolor. Duis suscipit ac nulla et finibus. Phasellus ac sem sed dui dictum gravida. Phasellus eleifend vestibulum facilisis. Integer pharetra nec enim vitae mattis. Duis auctor, lectus quis condimentum bibendum, nunc dolor aliquam massa, id bibendum orci velit quis magna. Ut volutpat nulla nunc, sed interdum magna condimentum non. Sed urna metus, scelerisque vitae consectetur a, feugiat quis magna. Donec dignissim ornare nisl, eget tempor risus malesuada quis.
+## Timing a Reading Session
+1. Tap a title from your reading list
+2. Tap `Start a Reading Session`
+3. If you have more than one profile under your account, select the readers you would like to track reading time for, then tap `Start Timer`.
+4. Tap `Done` when you're finished reading
+5. If "Track Progress" is turned on for the title, enter "Last Page Read". The Date and Duration of your reading session will be entered automatically.
+5. Tap `Save`

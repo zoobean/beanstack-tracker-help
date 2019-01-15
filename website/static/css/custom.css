@@ -1,16 +1,135 @@
-/* your custom css */
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,700');
 
-@media only screen and (min-device-width: 360px) and (max-device-width: 736px) {
+body, h1, h2, h3, h4 {
+  color: #424242;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
 }
 
-@media only screen and (min-width: 1024px) {
+.fixedHeaderContainer,
+.onPageNav,
+footer {
+  display: none;
 }
 
-@media only screen and (max-width: 1023px) {
+.navPusher {
+  padding-top: 0;
 }
 
-@media only screen and (min-width: 1400px) {
+.wrapper {
+  padding: 16px;
 }
 
-@media only screen and (min-width: 1500px) {
+.docMainWrapper .wrapper {
+  padding: 0;
+}
+
+.mainContainer:not(.blogContainer) .wrapper .post,
+.blogContainer .posts,
+.blogContainer .lonePost {
+  padding: 0;
+}
+
+.mainContainer .wrapper .post h1,
+.mainContainer .wrapper .post h2,
+.mainContainer .wrapper .post h3 {
+  font-weight: 700;
+}
+
+.mainContainer .wrapper .post .postHeader h1 {
+  font-size: 33px;
+  letter-spacing: -0.01rem;
+  margin-bottom: 24px;
+}
+
+.mainContainer .wrapper .post h2 {
+  color: #424242;
+  font-size: 24px;
+  line-height: 32px;
+  margin-top: 0;
+  margin-bottom: 16px;
+  padding: 0;
+}
+
+.mainContainer .wrapper .post h3 {
+  color: #424242;
+  font-size: 16px;
+  line-height: 24px;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 0;
+}
+
+.mainContainer .wrapper .post h4 {
+  font-weight: 700;
+  color: #424242;
+  font-size: 14px;
+  line-height: 22px;
+  margin-top: 0;
+  margin-bottom: 8px;
+  padding: 0;
+}
+
+.mainContainer .wrapper p,
+.blockElement p, .mainContainer .wrapper ul li,
+.mainContainer .wrapper ol li {
+  line-height: 1.5;
+}
+
+.mainContainer .wrapper p,
+.blockElement p {
+  padding: 0;
+  margin: 0 0 16px 0;
+}
+
+code {
+  background-color: #f2f2f2;
+  box-shadow: none;
+  padding: 4px 8px;
+  color: #6761A8;
+  margin: 0 2px;
+  font-family: "Roboto", "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.mainContainer .wrapper ol,
+.mainContainer .wrapper ul {
+  padding: 0 0 0 16px;
+  margin-bottom: 24px;
+}
+
+.mainContainer .wrapper ol li,
+.mainContainer .wrapper ul li {
+  margin-bottom: 16px;
+}
+
+blockquote {
+  background-color: #f9f0c9;
+  border-left: none;
+  padding: 16px;
+  border-radius: 4px;
+  margin: 16px 0;
+}
+
+ul + blockquote,
+ol + blockquote,
+ul + blockquote + blockquote,
+ol + blockquote + blockquote {
+  margin: 16px;
+}
+
+.mainContainer .wrapper blockquote p {
+  font-size: 14px;
+  margin: 0;
+}
+
+article p img {
+  margin-left: 0;
+  margin-right: 0;
+}
+
+a {
+  color: #19BFD5;
+}
+
+.postHeader {
+  display: none;
 }
