@@ -9,7 +9,7 @@ Version 2.1.0
 
 [Beanstack](https://www.beanstack.com)
 
-[Twitter](https://twitter.com/zoobeanforkids)
+[Twitter](https://twitter.com/zoobeanreads)
 
 [Facebook](https://www.facebook.com/Zoobean/)
 
