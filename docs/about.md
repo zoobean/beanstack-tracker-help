@@ -3,14 +3,22 @@ id: about
 title: About
 ---
 
-![alt text](https://s3-us-west-2.amazonaws.com/beanstack/assets/Beanstack-About-Logo-Horizontal-RGB-2018.png "Beanstack logo")
+<a href="https://www.beanstack.com" class="logo">![alt text](https://www.beanstack.com/hubfs/Website%20Assets/images/beanstack-logo-1.svg "Beanstack logo")</a>
 
-[Beanstack](https://www.beanstack.com)
+[Terms & Conditions](terms.html)
 
-[Twitter](https://twitter.com/zoobeanreads)
+[Privacy Policy](privacy.html)
 
-[Facebook](https://www.facebook.com/Zoobean/)
+[Refund Policy](refund.html)
 
-[Terms & Conditions](https://www.beanstack.com/terms/)
 
-[Privacy Policy](https://www.beanstack.com/privacy/)
+<div class="social">
+  <a href="https://www.facebook.com/Zoobean/">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/facebook-new.png">
+  </a>
+  <a href="https://twitter.com/zoobeanreads">
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/twitter.png">
+  </a>
+</div>
+
+

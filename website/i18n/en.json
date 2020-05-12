@@ -11,6 +11,15 @@
       "intro": {
         "title": "Getting Started"
       },
+      "privacy": {
+        "title": "Privacy Policy"
+      },
+      "refund": {
+        "title": "Refund Policy"
+      },
+      "terms": {
+        "title": "terms"
+      },
       "whyread": {
         "title": "Why Read?"
       }
