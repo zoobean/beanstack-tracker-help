@@ -9,5 +9,8 @@
 <url> <loc>https://zoobean.github.io/beanstack-tracker-help/blog/2016/03/11/blog-post.html</loc> <changefreq>weekly</changefreq> <priority>0.3</priority> </url>
 <url> <loc>https://zoobean.github.io/beanstack-tracker-help/docs/about.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://zoobean.github.io/beanstack-tracker-help/docs/about.html" /> </url>
 <url> <loc>https://zoobean.github.io/beanstack-tracker-help/docs/intro.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://zoobean.github.io/beanstack-tracker-help/docs/intro.html" /> </url>
+<url> <loc>https://zoobean.github.io/beanstack-tracker-help/docs/privacy.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://zoobean.github.io/beanstack-tracker-help/docs/privacy.html" /> </url>
+<url> <loc>https://zoobean.github.io/beanstack-tracker-help/docs/refund.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://zoobean.github.io/beanstack-tracker-help/docs/refund.html" /> </url>
+<url> <loc>https://zoobean.github.io/beanstack-tracker-help/docs/terms.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://zoobean.github.io/beanstack-tracker-help/docs/terms.html" /> </url>
 <url> <loc>https://zoobean.github.io/beanstack-tracker-help/docs/whyread.html</loc> <changefreq>hourly</changefreq> <priority>1.0</priority> <xhtml:link rel="alternate" hreflang="en" href="https://zoobean.github.io/beanstack-tracker-help/docs/whyread.html" /> </url>
 </urlset>
