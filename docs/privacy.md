@@ -5,117 +5,213 @@ title: Privacy Policy
 
 [<img src="https://img.icons8.com/ios-glyphs/30/000000/long-arrow-left.png"/>](about.html)
 
-# Privacy policy
+# Privacy Policy
 
-This privacy policy ("Policy") describes how Zoobean Inc ("Zoobean Inc", "we", "us" or "our") collects, protects and uses the personally identifiable information ("Personal Information") you ("User", "you" or "your") may provide in the Beanstack Tracker mobile application and any of its products or services (collectively, "Mobile Application" or "Services").
+This Privacy Policy details our commitment to your privacy. Zoobean is committed to protecting the privacy of any information pertaining to an identified or identifiable individual (which may include, for example, email addresses and contact details and any similar information) provided to us in connection with the Site and Services (collectively, “personal information”). Our users trust and expect that we will protect their personal information in accordance with applicable law and the promises we make.
 
-It also describes the choices available to you regarding our use of your Personal Information and how you can access and update this information. This Policy does not apply to the practices of companies that we do not own or control, or to individuals that we do not employ or manage.
+Your access to, and use of, the Site and Services are subject to our Terms & Conditions, and this Privacy Policy is incorporated into and made part of our Terms & Conditions. Any capitalized terms used, but not defined, in this Privacy Policy have the respective meanings given to them in our Terms & Conditions.
 
-## Automatic collection of information
+By using the Site or Services, you consent to the collection, use and disclosure of your information by us in accordance with this Privacy Policy. If we decide to change this Privacy Policy, we will update this page. The Changes to this Privacy Policy section below provides more information about any changes to this Privacy Policy.  
 
-Our top priority is customer data security and, as such, we exercise the no logs policy. We process only minimal user data, only as much as it is absolutely necessary to maintain the Mobile Application or Services. Information collected automatically is used only to identify potential cases of abuse and establish statistical information regarding Mobile Application traffic and usage. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system.
 
-## Collection of personal information
+## 1\. What does this Privacy Policy cover?
 
-You can visit the Mobile Application without telling us who you are or revealing any information by which someone could identify you as a specific, identifiable individual. If, however, you wish to use some of the Mobile Application's features, you will be asked to provide certain Personal Information (for example, your name and e-mail address). We receive and store any information you knowingly provide to us when you create an account, publish content, make a purchase,  or fill any online forms in the Mobile Application.  When required, this information may include the following:
+We have created this Privacy Policy to explain what personal information we collect, the purpose of collection, and how we share it. Information that is de-identified or anonymized is not considered personal information.
 
-- Personal details such as name, country of residence, etc.
-- Contact information such as email address, address, etc.
-- Account details such as user name, unique user ID, password, etc.
-- Payment information such as credit card details, bank details, etc.
-- Certain features on the mobile device such as contacts, calendar, gallery, etc.
-- Information about other individuals such as your family members, friends, etc.
-- Any other materials you willingly submit to us such as articles, images, feedback, etc.
+## 2\. What information do we collect, and how is it used and shared?
 
-You can choose not to provide us with your Personal Information, but then you may not be able to take advantage of some of the Mobile Application's features. Users who are uncertain about what information is mandatory are welcome to contact us.
+We explain here what categories of personal information we collect, the purpose of collection, and how we share it: 
 
-## Managing personal information
+<table class="privacy-table">
+<thead>
+  <tr>
+	<td>Category of Personal Information Collected</td>
+	<td>Source</td>
+	<td>Purpose for Collection</td>
+	<td>Categories of Recipients</td>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+	<td>
+	  <strong>Contact information:</strong>
+	  such as name and email address
+	</td>
+	<td>
+	  From you (or on your behalf, such as via an intermediary platform) when you register 
+	  for or use the Site or any Services
+	</td>
+	<td>
+	  To provide, manage, support, improve and personalize the Site and Services (and, as applicable any related
+	  transactions), and to communicate with and respond to you about the Site or Services, including to validate your
+	  identity or to meet legal obligations
+	</td>
+	<td>
+	  Our agents and successors; to the extent relevant, select service providers (who perform certain services and functions
+	  on our behalf and who are bound by confidentiality obligations); and, as applicable, an institutional client (e.g.,
+	  school or library) under which you are registered
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  <strong>Collaboration information (as applicable):</strong> such as information you enter into any collaborative environment or
+	  communication tool available on or through the Site or Services (as applicable)
+	</td>
+	<td>
+	  From you, as applicable, when you input information into any such environment or tool
+	</td>
+	<td>
+	  To collaborate and communicate, as contemplated by such environment or tool (as applicable)
+	</td>
+	<td>
+	  Users who are authorized to view or use such environment or tool (or the applicable portion thereof) or to whom such
+	  information is communicated or designated; our agents and successors; and, to the extent relevant, select technical and
+	  other service providers (who perform certain services and functions on our behalf and who are bound by confidentiality
+	  obligations)
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  <strong>Browsing information (as applicable):</strong> such as your IP address or other device identifier, the kind of browser or device
+	  you use, pages and content that you visit on the Site, what you click on, the state and country from which you access
+	  the Site or Services, date and time of your visit, and web pages you linked to the Site from
+	</td>
+	<td>
+	  The Site or Services or your interactions with the Site or Services, including through the use of cookies or other
+	  tracking technologies explained further below
+	</td>
+	<td>
+	  To evaluate usage of the Site and Services and improve functionality and performance; to protect the security and
+	  integrity of the Site and Services and our business, such as preventing fraud, hacking, and other criminal activity or
+	  to meet legal obligations
+	</td>
+	<td>
+	  Our service providers who help us with fraud protection and website analytics
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  <strong>Payment information (as applicable):</strong> such as name, card issuer and card type, credit or debit card number, expiration
+	  date, CVV code, and billing address (as applicable)
+	</td>
+	<td>
+	  From you or your payment card issuers, as applicable
+	</td>
+	<td>
+	  Authorizing of credit card and other financial transactions with respect to your subscription or other payment
+	  obligations, as applicable, related to the Site or Services
+	</td>
+	<td>
+	  Our service providers who process payments for us—they are prohibited from using personal information for any other
+	  purposes and are contractually required to comply with all applicable laws and requirements, which includes the Payment
+	  Card Industry Data Security standards
+	</td>
+  </tr>
+  <tr>
+	<td>
+	  <strong>Legal process-related information:</strong> such as details of your identity, or suspected or alleged criminal, dangerous,
+	  impermissible, unlawful or other relevant behavior or records
+	</td>
+	<td>
+	  From crime and fraud prevention agencies, you, witnesses or law enforcement agencies
+	</td>
+	<td>
+	  To protect users, the public and our business against risks and crime; to comply with legal requirements (e.g., FERPA)
+	</td>
+	<td>
+	  Law enforcement and other governmental authorities in accordance with applicable law (including, as applicable, as
+	  required to satisfy parental access requirements under FERPA), our technical and other service providers, and our
+	  professional advisors
+	</td>
+  </tr>
+</tbody>
+</table>
 
-You are able to delete certain Personal Information we have about you. The Personal Information you can delete may change as the Mobile Application or Services change. When you delete Personal Information, however, we may maintain a copy of the unrevised Personal Information in our records for the duration necessary to comply with our obligations to our affiliates and partners, and for the purposes described below.
 
-## Storing personal information
+We will only use personal information to the extent it is reasonably necessary to deliver, manage, support, improve or personalize the Services or the Site. In some jurisdictions, individuals may have the right to withdraw consent from certain uses. If you reside in such jurisdictions, you may have additional rights which are detailed in sections 8 through 10.  In all cases, any service providers will be contractually limited in the way they may use personal information maintained by us, including requirements that such information be maintained in a confidential and secure manner.
 
-We will retain and use your Personal Information for the period necessary to comply with our legal obligations, resolve disputes, and enforce our agreements unless a longer retention period is required or permitted by law. We may use any aggregated data derived from or incorporating your Personal Information after you update or delete it, but not in a manner that would identify you personally. Once the retention period expires, Personal Information shall be deleted. Therefore, the right to access, the right to erasure, the right to rectification and the right to data portability cannot be enforced after the expiration of the retention period.
+**In Connection with Business Transfers:** : In the event that a division, a product or all of Zoobean is bought, sold or otherwise transferred, or is in the process of a potential transaction, personal information will likely be shared for evaluation purposes and included among the transferred business assets, subject to client contractual requirements and applicable law. An acquiring company would be required to protect all personal information, which Zoobean collected from users of the Site or Services, in accordance with the terms of this Privacy Policy.
 
-## Use and processing of collected information
+**To Comply with Laws:** We may also disclose specific personal information when such disclosure appears necessary to comply with applicable law, a subpoena in the course of managing a dispute, governmental inquiry or other litigation process. We may also disclose information to our accountants, auditors, agents, lawyers and other advisors in connection with the enforcement or protection of our legal rights or to protect the interests or safety of our users or others, in accordance with or as authorized by law.
 
-In order to make our Mobile Application and Services available to you, or to meet a legal obligation, we need to collect and use certain Personal Information. If you do not provide the information that we request, we may not be able to provide you with the requested products or services. Some of the information we collect is directly from you via our Mobile Application. However, we may also collect Personal Information about you from other sources. Any of the information we collect from you may be used for the following purposes:
+## 3\. What are cookies and how do we use them and other technologies?
 
-- Create and manage user accounts
-- Deliver products or services
-- Improve products and services
-- Send administrative information
-- Send marketing and promotional communications
-- Improve user experience
-- Enforce terms and conditions and policies
-- Run and operate our Mobile Application and Services
+A cookie is a small piece of information that a website, online application, or email may save to your browser or your computer’s hard drive for use in subsequent visits to the website or online application. The “help” portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive new cookies or how to disable cookies altogether. We do not control and do not guarantee the effectiveness of browser-based tools for managing cookies.
 
-Processing your Personal Information depends on how you interact with our Mobile Application, where you are located in the world and if one of the following applies: (i) You have given your consent for one or more specific purposes. This, however, does not apply, whenever the processing of Personal Information is subject to California Consumer Privacy Act or European data protection law; (ii) Provision of information is necessary for the performance of an agreement with you and/or for any pre-contractual obligations thereof; (iii) Processing is necessary for compliance with a legal obligation to which you are subject; (iv) Processing is related to a task that is carried out in the public interest or in the exercise of official authority vested in us; (v) Processing is necessary for the purposes of the legitimate interests pursued by us or by a third party.
+We do not currently participate in interest-based or behavioral online advertising, and information automatically collected from the Site is not used by us for that purpose.
 
- Note that under some legislations we may be allowed to process information until you object to such processing (by opting out), without having to rely on consent or any other of the following legal bases below. In any case, we will be happy to clarify the specific legal basis that applies to the processing, and in particular whether the provision of Personal Information is a statutory or contractual requirement, or a requirement necessary to enter into a contract.
+We may use Google Analytics to evaluate use of the Site for our internal purposes such as evaluating usages of the Site. To learn how Google Analytics collects and processes data, please visit: “How Google uses data when you use our partners’ sites or apps” located at [www.google.com/policies/privacy/partners](www.google.com/policies/privacy/partners).
 
-## The rights of users
+**Any and all personal information collected on the Site will be kept strictly confidential and will not be sold, reused, rented, disclosed, or loaned to third parties, except as otherwise described in this Privacy Policy.**
 
-You may exercise certain rights regarding your information processed by us. In particular, you have the right to do the following: (i) you have the right to withdraw consent where you have previously given your consent to the processing of your information; (ii) you have the right to object to the processing of your information if the processing is carried out on a legal basis other than consent; (iii) you have the right to learn if information is being processed by us, obtain disclosure regarding certain aspects of the processing and obtain a copy of the information undergoing processing; (iv) you have the right to verify the accuracy of your information and ask for it to be updated or corrected; (v) you have the right, under certain circumstances, to restrict the processing of your information, in which case, we will not process your information for any purpose other than storing it; (vi) you have the right, under certain circumstances, to obtain the erasure of your Personal Information from us; (vii) you have the right to receive your information in a structured, commonly used and machine readable format and, if technically feasible, to have it transmitted to another controller without any hindrance. This provision is applicable provided that your information is processed by automated means and that the processing is based on your consent, on a contract which you are part of or on pre-contractual obligations thereof.
+## 4\. How do we protect personal information?
 
-## The right to object to processing
+Where applicable, we use industry-standard technology in connection with the Services and the Site to help protect personal information from loss, misuse and unauthorized access, disclosure, alteration and destruction.
 
-Where Personal Information is processed for the public interest, in the exercise of an official authority vested in us or for the purposes of the legitimate interests pursued by us, you may object to such processing by providing a ground related to your particular situation to justify the objection. You must know that, however, should your Personal Information be processed for direct marketing purposes, you can object to that processing at any time without providing any justification. To learn, whether we are processing Personal Information for direct marketing purposes, you may refer to the relevant sections of this document.
+## 5\. How long do we retain personal information?
 
-## How to exercise these rights
+Personal information that we collect, access or process will be retained only as long as reasonably necessary for the fulfilment of the purposes for which it was collected, unless otherwise provided for under services contracts with clients or as required or authorized by law. Personal information that is no longer required to fulfil the identified purposes will be destroyed, erased or de-identified.
 
-Any requests to exercise User rights can be directed to Zoobean Inc through the contact details provided in this document. These requests can be exercised free of charge and will be addressed by Zoobean Inc as early as possible.
+## 6\. What are your choices concerning your personal information?
 
-## California privacy rights
+Our clients (e.g., schools and libraries) are responsible for notification of purpose and for obtaining appropriate consent, to the extent required by law, when they collect personal information that is transferred to us.
 
-In addition to the rights as explained in this Privacy Policy, California residents who provide Personal Information (as defined in the statute) to obtain products or services for personal, family, or household use are entitled to request and obtain from us, once a calendar year, information about the Personal Information we shared, if any, with other businesses for marketing uses. If applicable, this information would include the categories of Personal Information and the names and addresses of those businesses with which we shared such personal information for the immediately prior calendar year (e.g., requests made in the current year will receive information about the prior year). To obtain this information please contact us.
+If we are instructed by our clients to transmit communications on their behalf, clients remain responsible for ensuring that recipients have consented to receiving such communications and that the information contained in the communications are accurate and complete.
 
-## Billing and payments
+We do not sell, rent, or share the personal information of our users with third parties for such third parties’ own marketing purposes.
 
-We use third-party payment processors to assist us in processing your payment information securely. Such third-party processors' use of your Personal Information is governed by their respective privacy policies which may or may not contain privacy protections as protective as this Privacy Policy. We suggest that you review their respective privacy policies.
+We may, subject to applicable laws, use personal information from our users to contact them about the Site and Services, including to provide them with information on additional products from us that may be of interest to them. Our users may exercise choices regarding these communications as follows:
 
-## Privacy of children
+*   Mail marketing, Telephone marketing, Surveys and Quality control communications (as applicable). You may decide that you prefer that we not use your personal information to promote new and/or additional products and/or services which may be of interest to you and refuse that we contact you by mail or telephone for marketing purposes or by email or telephone for quality control purposes. If this is the case, you may advise us by contacting customer service or contacting us using the information detailed in the Contacting us section below. **For clarity, we will not use any students’ personal information that we receive from or in connection with a school (collectively, “Student Personal Data”) for marketing-related communications.** For more information about Student Personal Data, see section 8 below.
+*   Emails/Commercial Electronic Communications. You can always limit the communications that we send to you. To opt-out of commercial emails, simply click the link labeled “unsubscribe” or “opt-out” at the bottom of any commercial electronic communication we send you. **For clarity, students are automatically opted out of commercial electronic communications that do not specifically relate to the provision or support of the Services in which such students participate.** Please note that even if you opt-out of promotional communications, we may still need to contact you with important information about your account.
 
-We do not knowingly collect any Personal Information from children under the age of 13. If you are under the age of 13, please do not submit any Personal Information through our Mobile Application or Service. We encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide Personal Information through our Mobile Application or Service without their permission.
+## 7\. How is this Privacy Policy enforced?
 
-If you have reason to believe that a child under the age of 13 has provided Personal Information to us through our Mobile Application or Service, please contact us. You must also be old enough to consent to the processing of your Personal Information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
+We have put in place mechanisms to monitor and verify our ongoing adherence to this Privacy Policy. We encourage individuals covered by this Privacy Policy to raise any concerns that they have about the way that we process their personal information by contacting us as described below. We take your questions and concerns seriously, and we will use commercially reasonable efforts to resolve them.
 
-## Newsletters
+## 8\. What is our policy on kids’ and students’ privacy?
 
-We offer electronic newsletters to which you may voluntarily subscribe at any time. We are committed to keeping your e-mail address confidential and will not disclose your email address to any third parties except as allowed in the information use and processing section or for the purposes of utilizing a third-party provider to send such emails. We will maintain the information sent via e-mail in accordance with applicable laws and regulations.
+If we learn that a child under the age of 13 has submitted personal information online without parental consent, we will take all reasonable measures to delete such information from our databases and to not use such information for any purpose (except where necessary to protect the safety of the child or others as required or allowed by law). If you become aware of any personal information we have collected from children under age 13 without parental consent, please contact us using the information detailed in the Contacting us section below.
 
-In compliance with the CAN-SPAM Act, all e-mails sent from us will clearly state who the e-mail is from and provide clear information on how to contact the sender. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or by contacting us. However, you will continue to receive essential transactional emails.
+We take our role as stewards of Student Personal Data very seriously. We collect and use Student Personal Data only as necessary to provide the applicable school-related Services.  __**WE DO NOT**__ (a) sell or monetize Student Personal Data; (b) display advertising to students on the school-related Services; or (c) authorize behavioral tracking by third parties on the school-related Services for the purpose of targeted advertising or to show ads on such Services. 
 
-## Remarketing
+## 9\. Access, objection, deletion and correction
 
-We also may permit certain third-party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities in the Mobile Application. These companies may deliver ads that might place cookies and otherwise track user behavior.
+We support, and we will reasonably cooperate with users (and, as applicable, their parents, schools, libraries or other institutions) regarding, users’ access to and correction of their personal information. You can review and modify your registration information at any time through your account. You can also request that we remove or correct your personal information. To make such a request, or if you have questions about your rights, please feel free to contact us using the contact information detailed in the Contacting us section below.
 
-## Links to other mobile applications
+In certain jurisdictions, you may have the right to obtain confirmation as to whether your personal information is being processed, information about the purposes of that processing, and information about the recipients to whom your personal data have been or will be disclosed. 
 
-Our Mobile Application contains links to other mobile applications that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other mobile applications or third-parties. We encourage you to be aware when you leave our Mobile Application and to read the privacy statements of each and every mobile application that may collect Personal Information.
+## 10\. Your California Privacy Rights
 
-## Information security
+If you are a California resident, California law provides you with the following rights with respect to your personal information:
 
-We secure information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure. We maintain reasonable administrative, technical, and physical safeguards in an effort to protect against unauthorized access, use, modification, and disclosure of Personal Information in its control and custody. However, no data transmission over the Internet or wireless network can be guaranteed. Therefore, while we strive to protect your Personal Information, you acknowledge that (i) there are security and privacy limitations of the Internet which are beyond our control; (ii) the security, integrity, and privacy of any and all information and data exchanged between you and our Mobile Application cannot be guaranteed; and (iii) any such information and data may be viewed or tampered with in transit by a third-party, despite best efforts.
+*   The right to know what personal information we have collected, used, disclosed and sold about you. To submit a request to know, you may contact us using the contact information detailed in the Contacting us section below (with “REQUEST FOR INFORMATION” in the subject line). You also may designate an authorized agent to make a request for access on your behalf.  
+*   The right to request that we delete any personal information we have collected about you. To submit a request for deletion, you may contact us using the contact information detailed in the Contacting us section below (with “REQUEST FOR PERSONAL INFORMATION DELETION” in the subject line). You also may designate an authorized agent to make a request for deletion on your behalf.  
 
-## Data breach
+When you exercise these rights and submit a request to us, we may verify your identity. We also may use a third party verification provider to verify your identity. Your exercise of these rights will have no adverse effect on the price and quality of our goods or services.
 
-In the event we become aware that the security of the Mobile Application has been compromised or users Personal Information has been disclosed to unrelated third parties as a result of external activity, including, but not limited to, security attacks or fraud, we reserve the right to take reasonably appropriate measures, including, but not limited to, investigation and reporting, as well as notification to and cooperation with law enforcement authorities. In the event of a data breach, we will make reasonable efforts to notify affected individuals if we believe that there is a reasonable risk of harm to the user as a result of the breach or if notice is otherwise required by law. When we do, we will send you an email.
+For the 12-month period prior to the date of this Privacy Policy, we have not sold any personal information about our users; nor do we have any plans to do so in the future.   
 
-## Legal disclosure
+## 11\. Transfer of personal information to other countries
 
-We will disclose any information we collect, use or receive if required or permitted by law, such as to comply with a subpoena, or similar legal process, and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. In the event we go through a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, your user account, and Personal Information will likely be among the assets transferred.
+In some cases, personal information that we process, including information from our users located in various countries, including in Canada, the EU and Switzerland or relative to queries or visitors to the Site may be transferred to the United States or other countries that may not have data privacy laws that provide the same protection as the countries where you reside. You understand that your personal information may therefore be transferred, processed and stored outside of your country of residence, and therefore may be available to government authorities under lawful orders and laws applicable in such foreign jurisdictions.
 
-## Changes and amendments
+## 12\. Right to lodge complaints
 
-We may update this Privacy Policy from time to time in our discretion and will notify you of any material changes to the way in which we treat Personal Information. When changes are made, we will revise the updated date at the bottom of this page. We may also provide notice to you in other ways in our discretion, such as through contact information you have provided. Any updated version of this Privacy Policy will be effective immediately upon the posting of the revised Privacy Policy unless otherwise specified. Your continued use of the Mobile Application or Services after the effective date of the revised Privacy Policy (or such other act specified at that time) will constitute your consent to those changes. However, we will not, without your consent, use your Personal Data in a manner materially different than what was stated at the time your Personal Data was collected.
+We are transparent about the ways in which we collect and use personal information, and welcome your questions and concerns. If you have any concern or complaint about the way we handle your personal information, please contact us as described below. To the extent you believe we have not addressed your concerns or otherwise choose to do so, you have the right to lodge a complaint with a supervisory authority in the country where you reside and/or in the United States. For information on how you can file a privacy complaint with the Federal Trade Commission, please visit: [https://www.ftccomplaintassistant.gov/](https://www.ftccomplaintassistant.gov/)
 
-## Acceptance of this policy
+## 13\. Changes to this Privacy Policy
 
-You acknowledge that you have read this Policy and agree to all its terms and conditions. By using the Mobile Application or its Services you agree to be bound by this Policy. If you do not agree to abide by the terms of this Policy, you are not authorized to use or access the Mobile Application and its Services.
+We will review and update this Privacy Policy as required to keep current with rules and regulations, new technologies and security standards. If we decide to change this Privacy Policy, we will update this page (and the effective date below). If the change is material, we will prominently display information about the change on [https://beanstack.com](www.beanstack.com), we will notify then-registered users of the change, and you will be required to consent to the updated terms of this Privacy Policy in order to continue use of the Site or Services. Changes to this Privacy Policy will apply only to information collected after the date of the change.
 
-## Contacting us
+This Privacy Policy is effective as of November 9, 2020.
 
-If you would like to contact us to understand more about this Policy or wish to contact us concerning any matter relating to individual rights and your Personal Information, you may send an email to usersupport@zoobean.com
+## 14\. Contacting us
 
-This document was last updated on May 12, 2020
+If there are any questions regarding this Privacy Policy or to request a copy of this Privacy Policy in another format, you may contact us using the information below.
+
+Zoobean  
+3100 Clarendon Blvd #200  
+Arlington, VA 22201  
+
+Email: [usersupport@zoobean.com](mailto:usersupport@zoobean.com)
